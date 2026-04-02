@@ -1,8 +1,8 @@
 // ====== CANVAS SETUP ======
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
-canvas.width = 1500;
-canvas.height = 1000;
+canvas.width = 2000;
+canvas.height = 1200;
 
 const BLOCK = 40;
 const CHUNK_W = 12;
